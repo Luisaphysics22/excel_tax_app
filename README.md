@@ -1,6 +1,7 @@
 # 💸TAX APP
 ![alt text](/images/image.png)
 
+
 ## 📌 Descrição do Desafio / Challenge Description
 Este projeto tem como objetivo criar uma ferramenta no Excel para auxiliar na organização e reunião de informações essenciais para a declaração de imposto de renda. A proposta é construir um agregador de dados no qual o usuário possa controlar suas entradas de maneira eficiente e validada, com menus de navegação, validações automáticas e funcionalidades extras, como links rápidos.
 
@@ -55,7 +56,9 @@ O aplicativo **TAX APP** possui as seguintes seções:
 4. Navigate the system using the shortcut menus.
 5. Review and validate your information before exporting the data to the declaration.
 
-
+![alt text](/images/titular.png)
+![alt text](/images/informes.png)
+![alt text](/images/notas.png)
 
 ## 🤝 Contribuição / Contribution
 
