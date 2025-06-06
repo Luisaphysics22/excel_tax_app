@@ -18,6 +18,7 @@ The solution was built in Excel, ensuring a user-friendly and practical interfac
 - ✅ **Links rápidos para facilitar a gestão**
 - ✅ **Interface amigável e prática**
 - ✅ **Controle de alterações para garantir dados atualizados**
+  
 ## 🛠 Features
 - ✅ **Organization of data holder**
 - ✅ **Automatic validations**
@@ -56,7 +57,7 @@ O aplicativo **TAX APP** possui as seguintes seções:
 
 <video src="images/tax_app_by_luisa.mp4" width="320" height="240" controls></video>
 
-## 🤝 Contribuição /Contribution
+## 🤝 Contribuição / Contribution
 
 Se deseja contribuir para melhorias ou novas funcionalidades no **TAX APP**, sinta-se livre para enviar sugestões ou reportar problemas!
 
