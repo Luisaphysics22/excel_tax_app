@@ -54,7 +54,7 @@ O aplicativo **TAX APP** possui as seguintes seções:
 4. Navigate the system using the shortcut menus.
 5. Review and validate your information before exporting the data to the declaration.
 
-![alt text](/images/tax_app_by_luisa.gif)
+<video src="images/tax_app_by_luisa.mp4" width="320" height="240" controls></video>
 
 ## 🤝 Contribuição /Contribution
 
